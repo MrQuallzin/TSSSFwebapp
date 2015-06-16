@@ -1,0 +1,5 @@
+# The requirements for the frontend server, which will probably change as the
+# project matures.  For now, though...
+
+Bottle~=0.12
+
