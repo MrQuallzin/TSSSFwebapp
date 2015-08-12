@@ -133,3 +133,5 @@ Session.vim
 # Project-specific ignores go below this comment.
 
 .env
+venv/
+env/
